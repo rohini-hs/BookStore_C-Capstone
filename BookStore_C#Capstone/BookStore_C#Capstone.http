@@ -1,0 +1,6 @@
+@BookStore_C_Capstone_HostAddress = http://localhost:5268
+
+GET {{BookStore_C_Capstone_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
